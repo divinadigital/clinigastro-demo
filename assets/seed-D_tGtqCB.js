@@ -94,8 +94,8 @@ Anestesiologia (Registro: 23169)`}]},contato:{eyebrow:"Contato",title:"Fale com 
 <p>Ambiente projetado para garantir <strong>acessibilidade e conforto</strong></p>
 </li>
 </ul>`},{question:"Vocês têm perfil nas redes sociais e canais de comunicação?",answerHtml:`<p>Sim! Acompanhe atualizações, campanhas de saúde e novidades no Instagram:<br /><strong>@clinigastrohospitaldia</strong></p>
-<p><br />Também estamos no Facebook (mais de 2.300 curtidas) e em outras plataformas.</p>`},{question:"Qual é a história e missão da Clinigastro?",answerHtml:`<p>Atuação desde <strong>1986/1987</strong>, pioneira em endoscopia de vídeo e colonoscopia na região</p>
-<p>Missão: atendimento <strong>humanizado, diagnóstico precoce, tratamento eficaz</strong>, com integração de dados clínicos e imagem</p>`},{question:"Como é feito o agendamento de exames e preparações?",answerHtml:`<ul>
+<p><br />Também estamos no Facebook (mais de 2.300 curtidas) e em outras plataformas.</p>`},{question:"Qual é a história e quais são os princípios da Clinigastro?",answerHtml:`<p>Atuação desde <strong>1986/1987</strong>, pioneira em endoscopia de vídeo e colonoscopia na região.</p>
+<p>Nossos princípios fundamentais, elaborados por Manoel Carlos Cardoso, são: <strong>atendimento humanizado com qualidade e técnica</strong>, <strong>buscar excelência em tudo que fazemos</strong> e <strong>agir com entusiasmo</strong>.</p>`},{question:"Como é feito o agendamento de exames e preparações?",answerHtml:`<ul>
 <li>
 <p>Pré‑agendamento pelo site, WhatsApp ou telefone</p>
 </li>
