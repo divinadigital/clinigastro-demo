@@ -1,4 +1,4 @@
-import{r as Ei,j as Mo}from"./index-74VLV4x9.js";/**
+import{r as Ei,j as Mo}from"./index-B88PF8Fz.js";/**
  * @license
  * Copyright 2010-2024 Three.js Authors
  * SPDX-License-Identifier: MIT
