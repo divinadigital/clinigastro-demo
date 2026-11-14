@@ -1,4 +1,4 @@
-import{r as k,j as s,I as q,u as oe,g as le,h as ae,i as ie,k as Ss,w as ce,C as ne,l as xe}from"./index-CkG6aIxL.js";import{a as Gs}from"./sceneList-D-radU7H.js";const Fs=k.createContext(!1),ws=k.createContext({active:!1,set:()=>{}});let os=null;function de(){if(os!==null)return os;try{os=!!document.createElement("canvas").getContext("webgl",{failIfMajorPerformanceCaveat:!1})}catch{os=!1}return os}const fe="attribute vec2 p; void main(){ gl_Position = vec4(p, 0.0, 1.0); }",pe=`
+import{r as k,j as s,I as q,u as oe,g as le,h as ae,i as ie,k as Ss,w as ce,C as ne,l as xe}from"./index-DKISkD2p.js";import{a as Gs}from"./sceneList-D-radU7H.js";const Fs=k.createContext(!1),ws=k.createContext({active:!1,set:()=>{}});let os=null;function de(){if(os!==null)return os;try{os=!!document.createElement("canvas").getContext("webgl",{failIfMajorPerformanceCaveat:!1})}catch{os=!1}return os}const fe="attribute vec2 p; void main(){ gl_Position = vec4(p, 0.0, 1.0); }",pe=`
 #ifdef GL_FRAGMENT_PRECISION_HIGH
 precision highp float;
 #else
